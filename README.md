@@ -20,9 +20,7 @@
 <h2>How to use it </h2>
 
 ### quick use
-https://github.com/graphdeco-inria/gaussian-splatting/assets/40643808/0940547f-1d82-4c2f-a616-44eabbf0f816
-
-
+https://github.com/liuning1234/Inetractivematting/blob/main/figures/interactiveMatting%20(online-video-cutter.com).mp4
 
 
 
