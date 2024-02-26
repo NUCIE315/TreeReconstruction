@@ -4,7 +4,10 @@
  <b>In order to more conveniently separate the trees in the image from the background, we have developed a convenient and efficient image matting software.</b>
 
  <h2> Software Requirements </h2>
- Windows System
+ 
+- Windows System
+- MinGW
+
  <h2> Quick control</h2>
  We provide 7 keys to quickly manipulate the software.The description is as follows:
  
@@ -42,4 +45,9 @@ https://github.com/liuning1234/Inetractivematting/assets/47420641/e0c5f4f0-a4a6-
 - <b>step9</b>  If necessary, press 'b' to sketch background.
 - <b>step10</b>  Hold down the left mouse button to fill blank backgrounde. Press '-' to undo the sketch.
 - <b>step11</b>  If necessary, press 'r' to reset the image.
-- <b>step12</b>  Press 's' to save the result. 
+- <b>step12</b>  Press 's' to save the result.
+
+<h2>Possible issues</h2>
+
+- #### Unable to locate program input point in XXX dynamic link library **.dll
+  Copy the */MinGW/mingw64/bin/libstdc++-6.dll to C:/Windows/System32.
