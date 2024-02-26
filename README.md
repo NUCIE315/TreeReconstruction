@@ -31,8 +31,18 @@
 https://github.com/liuning1234/Inetractivematting/assets/47420641/e0c5f4f0-a4a6-4808-b1f8-e5d82a6765b0
 
 ### Using steps
-#### Setup
-<code>git clone https://github.com/liuning1234/Inetractivematting.git  </code>
+#### Cloning the Repository
+
+```shell
+# SSH                                                                       
+git clone git@github.com://github.com/liuning1234/Inetractivematting.git
+```
+or
+```shell
+# HTTPS
+git clone https://github.com/liuning1234/Inetractivematting.git
+```
+
 #### Operation steps
 - <b>step1</b>  Click the InteractiveMatting.exe.
 - <b>step2</b>  Input the image path in the cmd.
@@ -51,3 +61,6 @@ https://github.com/liuning1234/Inetractivematting/assets/47420641/e0c5f4f0-a4a6-
 
 - #### Unable to locate program input point in XXX dynamic link library **.dll
   Copy the */MinGW/mingw64/bin/libstdc++-6.dll to C:/Windows/System32.
+<h2> Acknowledgments </h2>
+
+<h2> BibTex </h2>
