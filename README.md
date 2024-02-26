@@ -1,6 +1,6 @@
  <h1> <center> Interactive image matting system </center> </h1>
 
-<img src="figures/mainUI.png" alt="mainui" width="405"/> <img src="figures/hist.png" alt="hist" width="570"/> <br>
+<img src="figures/mainUI.png" alt="mainui" width="350"/> <img src="figures/hist.png" alt="hist" width="495"/> <br>
 
  <b>In order to more conveniently separate the trees in the image from the background, we have developed a convenient and efficient image matting software.</b>
  <h2> Quick control</h2>
