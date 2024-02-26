@@ -18,6 +18,11 @@
 <!-- | 'q'| load the next image(Only used when version is folder)|
 | '!'| exit the software | -->
 
+<h2>How to use it </h2>
+
+### quick use
+https://github.com/graphdeco-inria/gaussian-splatting/assets/40643808/0940547f-1d82-4c2f-a616-44eabbf0f816
+
 
 
 
