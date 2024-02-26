@@ -29,4 +29,17 @@ https://github.com/liuning1234/Inetractivematting/assets/47420641/e0c5f4f0-a4a6-
 
 ### Using steps
 #### Setup
-<code>git clone https://github.com/graphdeco-inria/gaussian-splatting.git  </code>
+<code>git clone https://github.com/liuning1234/Inetractivematting.git  </code>
+#### Operation steps
+- <b>step1</b>  Click the InteractiveMatting.exe.
+- <b>step2</b>  Input the image path in the cmd.
+- <b>step3</b>  Adjust the slider to select the best filter value to remove the background.
+- <b>step4</b>  Press the 'space' to segment sky background.
+- <b>step5</b>  Press 'c' to sketch silhouette.
+- <b>step6</b>  Hold down the left mouse button to draw the contours of tree.
+- <b>step7</b>  If necessary, press 'e' to edit silhouette.
+- <b>step8</b>  Click and move green points to make it closer to the contours of the trees.
+- <b>step9</b>  If necessary, press 'b' to sketch background.
+- <b>step10</b>  Hold down the left mouse button to fill blank backgrounde. Press '-' to undo the sketch.
+- <b>step11</b>  If necessary, press 'r' to reset the image.
+- <b>step12</b>  Press 's' to save the result. 
