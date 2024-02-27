@@ -7,6 +7,7 @@
  
 - Windows System
 - MinGW
+- opencv
 
  <h2> Quick control</h2>
  We provide 7 keys to quickly manipulate the software.The description is as follows:
