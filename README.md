@@ -63,12 +63,18 @@ git clone https://github.com/liuning1234/Inetractivematting.git
 - #### Unable to locate program input point in XXX dynamic link library **.dll
   Copy the */MinGW/mingw64/bin/libstdc++-6.dll to C:/Windows/System32.
 
-<h2> Tree reconstruction Demo</h2>
+<h2> Tree reconstruction demo</h2>
 
 ### Demo video
 
 
-https://github.com/NUCIE315/Inetractivematting/assets/47420641/da059220-effd-417a-92ca-708ae4211e39
+
+
+
+https://github.com/NUCIE315/Inetractivematting/assets/47420641/0e058dbc-0031-4363-8117-9315a4a23206
+
+
+
 
 
 
