@@ -1,7 +1,7 @@
  <h1> <center> Interactive image matting system </center> </h1>
 
 <img src="figures/mainUI2.png" alt="mainui" width="310"/> <img src="figures/hist.png" alt="hist" width="430"/> <br>
- <b>In order to more conveniently separate the trees in the image from the background, we have developed a convenient and efficient image matting software.</b>
+ <b>In order to more conveniently separate the trees in the image from the background, we have developed a convenient image matting software.</b>
 
  <h2> Software Requirements </h2>
  
