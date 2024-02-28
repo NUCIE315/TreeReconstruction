@@ -42,7 +42,7 @@ or
 ```shell
 # HTTPS
 git clone https://github.com/NUCIE315/Inetractivematting
-
+```
 #### Operation steps
 - <b>step1</b>  Click the InteractiveMatting.exe.
 - <b>step2</b>  Input the image path in the cmd.
