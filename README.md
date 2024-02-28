@@ -36,12 +36,12 @@ https://github.com/liuning1234/Inetractivematting/assets/47420641/e0c5f4f0-a4a6-
 
 ```shell
 # SSH                                                                       
-git clone git@//github.com/NUCIE315/Inetractivematting
+git clone git@//github.com/NUCIE315/Inetractivematting.git
 ```
 or
 ```shell
 # HTTPS
-git clone https://github.com/NUCIE315/Inetractivematting
+git clone https://github.com/NUCIE315/Inetractivematting.git
 ```
 #### Operation steps
 - <b>step1</b>  Click the InteractiveMatting.exe.
