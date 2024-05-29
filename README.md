@@ -76,14 +76,20 @@ https://github.com/NUCIE315/Inetractivematting/assets/47420641/0e058dbc-0031-436
 ### Volumetric Recontruction of Tree Point Clouds
 
 
-https://github.com/NUCIE315/Inetractivematting/assets/47420641/18426375-043b-413a-a64d-f4e6296cd08b
+
+https://github.com/NUCIE315/Inetractivematting/assets/47420641/7bada9f7-a055-42cf-9049-8d27decd3ef2
+
+
 
 ### Tree Modeling from Point Clouds
 
 
 
 
-https://github.com/NUCIE315/Inetractivematting/assets/47420641/fe92e965-866d-4c34-a477-1f7e06d717fa
+
+
+https://github.com/NUCIE315/Inetractivematting/assets/47420641/5297ccc4-ab13-4372-84b4-2ee184a1e409
+
 
 
 
