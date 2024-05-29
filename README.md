@@ -64,14 +64,6 @@ git clone https://github.com/NUCIE315/Inetractivematting.git
 
 <h2> Tree reconstruction demo</h2>
 
-### Demo video
-
-
-
-
-
-https://github.com/NUCIE315/Inetractivematting/assets/47420641/0e058dbc-0031-4363-8117-9315a4a23206
-
 
 ### Volumetric Recontruction of Tree Point Clouds
 
@@ -84,13 +76,12 @@ https://github.com/NUCIE315/Inetractivematting/assets/47420641/7bada9f7-a055-42c
 ### Tree Modeling from Point Clouds
 
 
-
-
-
-
 https://github.com/NUCIE315/Inetractivematting/assets/47420641/5297ccc4-ab13-4372-84b4-2ee184a1e409
 
+### Final Tree Rendering Results
 
+
+https://github.com/NUCIE315/Inetractivematting/assets/47420641/0e058dbc-0031-4363-8117-9315a4a23206
 
 
 
