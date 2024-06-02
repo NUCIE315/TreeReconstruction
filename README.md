@@ -89,15 +89,14 @@ https://github.com/NUCIE315/Inetractivematting/assets/47420641/0e058dbc-0031-436
 <h2> Acknowledgments </h2>
 
 <h2> BibTex </h2>
+
 ```bibtex
-@article{FENG2024103953,
-title = {Realistic reconstruction of trees from sparse images in volumetric space},
-journal = {Computers & Graphics},
-pages = {103953},
-year = {2024},
-issn = {0097-8493},
-doi = {https://doi.org/10.1016/j.cag.2024.103953},
-url = {https://www.sciencedirect.com/science/article/pii/S0097849324000888},
-author = {Weihuan Feng and Mingxin Jiao and Ning Liu and Long Yang and Zhiyi Zhang and Shaojun Hu}
+@inproceedings{Huang2DGS2024,
+    title={2D Gaussian Splatting for Geometrically Accurate Radiance Fields},
+    author={Huang, Binbin and Yu, Zehao and Chen, Anpei and Geiger, Andreas and Gao, Shenghua},
+    publisher = {Association for Computing Machinery},
+    booktitle = {SIGGRAPH 2024 Conference Papers},
+    year      = {2024},
+    doi       = {10.1145/3641519.3657428}
 }
 ```
