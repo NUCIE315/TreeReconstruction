@@ -89,6 +89,7 @@ https://github.com/NUCIE315/Inetractivematting/assets/47420641/0e058dbc-0031-436
 <h2> Acknowledgments </h2>
 
 <h2> BibTex </h2>
+```bibtex
 @article{FENG2024103953,
 title = {Realistic reconstruction of trees from sparse images in volumetric space},
 journal = {Computers & Graphics},
