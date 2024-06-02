@@ -89,3 +89,13 @@ https://github.com/NUCIE315/Inetractivematting/assets/47420641/0e058dbc-0031-436
 <h2> Acknowledgments </h2>
 
 <h2> BibTex </h2>
+@article{FENG2024103953,
+title = {Realistic reconstruction of trees from sparse images in volumetric space},
+journal = {Computers & Graphics},
+pages = {103953},
+year = {2024},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2024.103953},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849324000888},
+author = {Weihuan Feng and Mingxin Jiao and Ning Liu and Long Yang and Zhiyi Zhang and Shaojun Hu}
+}
